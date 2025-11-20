@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alex Johnson
+title: Andrew Smith
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of New Brunswick
+    url: https://www.unb.ca/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
